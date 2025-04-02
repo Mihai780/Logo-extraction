@@ -1,2 +1,2 @@
 # Logo-extraction
-This project involves extracting brand logos from a dataset of website domains. The goal is to successfully retrieve logos for at least 97% of the entries.
+A Python script that takes a dataset of website domains and extracts their brand logos using services like Clearbit or Google Favicons. The objective is to achieve a successful extraction rate above 97%. Failed attempts are logged for further analysis, and domains are grouped by logo similarity using image hashing.
